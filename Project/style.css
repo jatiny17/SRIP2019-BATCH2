@@ -1,0 +1,21 @@
+body{
+	background-color: gray;
+}
+
+.box{
+	width:500px;
+	background-color: black;
+	padding: 40px;
+	text-align: center;
+	margin:auto;
+	margin-top: 5%;
+	color: white;
+	font-family:sans-serif;
+}
+
+.box-img{
+	border-radius:10%;
+	width:200px;
+	height: 200px;
+}
+
